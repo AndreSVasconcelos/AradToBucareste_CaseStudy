@@ -1,5 +1,5 @@
-from AradToBucareste_CaseStudy import Vertice
-from AradToBucareste_CaseStudy import Adjacente
+from .Vertice import Vertice
+from .Adjacente import Adjacente
 
 
 class Grafo:
