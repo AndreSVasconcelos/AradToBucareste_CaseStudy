@@ -1,6 +1,5 @@
-from .Vertice import Vertice
-from .Adjacente import Adjacente
-
+from classes.Vertices import Vertice
+from classes.Adjacentes import Adjacente
 
 class Grafo:
     arad = Vertice('Arad', 366)
